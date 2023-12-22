@@ -9,7 +9,7 @@ This Python script uses Clash of Stats and Clash of Clans APIs to retrieve detai
 
 **Usage:**
 ```python
-print(get_clans_history('2PP'))```
+print(get_clans_history('2PP'))
 
 **Note:**
 - Replace ‘2PP’ with the desired player tag to retrieve clan history.
